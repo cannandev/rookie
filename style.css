@@ -1,0 +1,18 @@
+/*
+Theme Name: Rookie
+Theme URI: http://cannanso.com/themes/rookie
+Author: cannanso
+Author URI: http://cannanso.com/
+Description: TA test theme.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: red, white, black, responsive
+Text Domain: rookie
+
+This theme, like WordPress, is licensed under the GPL
+*/
+
+h1 {
+	color: #EDA1B9;
+}
